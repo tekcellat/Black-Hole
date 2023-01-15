@@ -1,2 +1,2 @@
-# Black-Hole
-Just stupid game :)
+# Black Hole
+The trajectory of the beam of light
